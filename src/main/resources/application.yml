@@ -54,3 +54,4 @@ server:
     includeException: true
     includeStacktrace: ALWAYS
     includeMessage: ALWAYS
+  port: ${online_port:8080}
